@@ -293,6 +293,9 @@ I don't know, but the benchmark is coming. Stay tuned.
 [Integrating React and Vue Components in One Application](https://x-team.com/blog/react-vue-component-integration/) 
 by [@josephrexme](https://github.com/josephrexme)
 
+## Sample Template
+[Sample Template React Vue](https://github.com/thomijasir/vue-react)by [@thomijasir](https://github.com/thomijasir)
+
 ## License
 
 [MIT](http://opensource.org/licenses/MIT)
